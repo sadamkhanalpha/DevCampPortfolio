@@ -64,3 +64,4 @@ group :development do
   # gem "spring"
 end
 gem 'friendly_id', '~> 5.4.0', require: "friendly_id"
+gem 'devise', '~> 4.8', '>= 4.8.1'
